@@ -11,3 +11,20 @@
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+
+
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+
+
+*.docx
+*.tmp
+*.pyc
+*/log
+
+.RData
+**/.RData
+**/*_cache
+
+data
