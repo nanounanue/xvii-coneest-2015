@@ -28,3 +28,9 @@ vignettes/*.pdf
 **/*_cache
 
 data
+
+
+*/metastore_db/*
+*/derby.log
+*/*.log
+*/*.dat
