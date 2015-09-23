@@ -34,3 +34,7 @@ data
 */derby.log
 */*.log
 */*.dat
+
+output
+*/*.jar
+
